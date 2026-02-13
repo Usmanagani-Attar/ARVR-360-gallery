@@ -1,4 +1,4 @@
-# AR/VR Lab 6 – 360° Image Gallery 🌐
+# AR/VR 360° Image Gallery 🌐
 
 This project is a **360-degree Image Gallery** developed using **A-Frame (WebVR)** as part of the **AR/VR laboratory**.  
 It allows users to view immersive 360° panoramic images and switch between scenes using interactive hotspots.
